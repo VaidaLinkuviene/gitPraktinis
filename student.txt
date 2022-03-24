@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Vaida Linkuviene JP
+=======
+Vaida Linkuviene
+Panevėžio gimdymo namai
+>>>>>>> main
